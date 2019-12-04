@@ -7,4 +7,6 @@
     <dimen name="dim_marginTop_des">6dp</dimen>
     <dimen name="dim_line_space">6sp</dimen>
     <dimen name="dim_place_txt">16sp</dimen>
+    <dimen name="dim_padding">16dp</dimen>
+    <dimen name="dim_start">16dp</dimen>
 </resources>
