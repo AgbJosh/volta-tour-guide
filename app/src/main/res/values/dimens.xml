@@ -3,4 +3,8 @@
     <dimen name="dim_elevation">4dp</dimen>
     <dimen name="dim_content_padding">8dp</dimen>
     <dimen name="dim_margin">8dp</dimen>
+    <dimen name="dim_marginTop_place">8dp</dimen>
+    <dimen name="dim_marginTop_des">6dp</dimen>
+    <dimen name="dim_line_space">6sp</dimen>
+    <dimen name="dim_place_txt">16sp</dimen>
 </resources>
