@@ -35,10 +35,10 @@ public class LandmarksFragment extends Fragment {
         contentInfo.add(new ContentInfo(R.drawable.akosombo, getString(R.string.akosombo_dam),getString(R.string.akosombo_description)));
 
         // Inflate and assign a variable to the root view
-        View rootViewGroup = inflater.inflate(R.layout.fragment_attractions, container, false);
+        View rootViewGroup = inflater.inflate(R.layout.fragment_container, container, false);
 
         // Find RecyclerView in fragment, create a new LayoutManager and set it to the ContentInfoAdapter
-        RecyclerView recyclerView = rootViewGroup.findViewById(R.id.attractions_content);
+        RecyclerView recyclerView = rootViewGroup.findViewById(R.id.fragment_content);
         LinearLayoutManager attractionsLayoutManager = new LinearLayoutManager(getActivity());
         RecyclerView.Adapter adapter = new ContentInfoAdapter(contentInfo);
         recyclerView.setLayoutManager(attractionsLayoutManager);
