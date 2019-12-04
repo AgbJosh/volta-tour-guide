@@ -22,8 +22,10 @@ public class TourGuideFragmentPageAdapter extends FragmentPagerAdapter {
             return new AttractionsFragment();
         } else if (position == 1){
             return new HotelsFragment();
-        } else {
+        } else if (position == 2){
             return new LandmarksFragment();
+        } else {
+            return new FestivalsFragment();
         }
     }
 
