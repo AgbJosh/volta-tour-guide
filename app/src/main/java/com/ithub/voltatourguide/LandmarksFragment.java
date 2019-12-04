@@ -31,8 +31,8 @@ public class LandmarksFragment extends Fragment {
 
         // Create ArrayList objects of type ContentInfo and populate it with data on Landmarks in your city
         ArrayList<ContentInfo> contentInfo = new ArrayList<>();
-        contentInfo.add(new ContentInfo(R.drawable.lake_volta,"Lake Volta", getString(R.string.lake_volta_description)));
-        contentInfo.add(new ContentInfo(R.drawable.akosombo,"Akosombo Dam",getString(R.string.akosombo_description)));
+        contentInfo.add(new ContentInfo(R.drawable.lake_volta, getString(R.string.lake_volta), getString(R.string.lake_volta_description)));
+        contentInfo.add(new ContentInfo(R.drawable.akosombo, getString(R.string.akosombo_dam),getString(R.string.akosombo_description)));
 
         // Inflate and assign a variable to the root view
         View rootViewGroup = inflater.inflate(R.layout.fragment_attractions, container, false);

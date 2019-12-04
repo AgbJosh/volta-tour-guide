@@ -14,4 +14,12 @@
     <string name="sogakope_description">Sogakope Beach Resort is more than just an elegant beach resort, it is the pride of Sogakope in the Volta Region of Ghana and its set in a rich and tranquil gardens with the famous Volta River on its doorstep.  Where indulgence meets relaxation, this new purpose built resort offers a peaceful and relaxed lifestyle in a well-designed grounds and facilities with a true African feel yet modern.</string>
     <string name="akosombo_hotel_description">Volta Hotel Akosombo is definitely a haven of comfort, hospitality, and natural beauty.  The hotel provides a fantastic view of the lake, dam, and adjoining mountain slope. It offers Standard and Twin Rooms, as well as Private Villas and Executive Suites. Each dwelling gives a vibe of sophisticated elegance and complete relaxation. This comes courtesy of our high-quality furnishing and amenities.</string>
     <string name="akosombo_description">Akosombo Dam is a rock-fill dam on the Volta River, near Akosombo, Ghana, completed in 1965 as part of the Volta River Project. Its construction was jointly financed by the government of Ghana, the World Bank, the United States, and the United Kingdom. The dam rises 440 feet (134 m) above ground level and has a crest 2,201 feet (671 m) wide and a volume of 10,451,000 cubic yards (7,991,000 cubic m). The dam impounds Lake Volta; this huge reservoir has a capacity of 124,000,000 acre-feet (153,000,000,000 cubic m) and is used for commercial fishing and navigation. The large electric-power-generating capacity (912 megawatts) of the Akosombo Dam meets Ghana’s needs and provides a surplus for sale to neighbouring countries.</string>
+    <string name="mt_afadza">Mount Afadja</string>
+    <string name="wli_fall">Wli Waterfall</string>
+    <string name="tafi_atome">Tafi Atome Monkey Sanctuary</string>
+    <string name="volta_serene">Volta Serene Hotel</string>
+    <string name="volta_akosombo">Volta Hotel Akosombo</string>
+    <string name="soga_beach">Sogakope Beach Resort</string>
+    <string name="lake_volta">Lake Volta</string>
+    <string name="akosombo_dam">Akosombo Dam</string>
 </resources>

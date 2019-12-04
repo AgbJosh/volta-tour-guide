@@ -31,9 +31,9 @@ public class AttractionsFragment extends Fragment {
 
         // Create ArrayList objects of type ContentInfo and populate it with data on Attractions in your city
         ArrayList<ContentInfo> contentInfo = new ArrayList<>();
-        contentInfo.add(new ContentInfo(R.drawable.afadzato,"Mount Afadja", getString(R.string.afadzato_description)));
-        contentInfo.add(new ContentInfo(R.drawable.wli,"Wli Waterfall", getString(R.string.wli_description)));
-        contentInfo.add(new ContentInfo(R.drawable.tafi,"Tafi Atome Monkey Sanctuary",getString(R.string.tafi_description)));
+        contentInfo.add(new ContentInfo(R.drawable.afadzato, getString(R.string.mt_afadza), getString(R.string.afadzato_description)));
+        contentInfo.add(new ContentInfo(R.drawable.wli, getString(R.string.wli_fall), getString(R.string.wli_description)));
+        contentInfo.add(new ContentInfo(R.drawable.tafi, getString(R.string.tafi_atome),getString(R.string.tafi_description)));
 
         // Inflate and assign a variable to the root view
         View rootViewGroup = inflater.inflate(R.layout.fragment_attractions, container, false);

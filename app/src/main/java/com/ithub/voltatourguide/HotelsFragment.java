@@ -31,9 +31,9 @@ public class HotelsFragment extends Fragment {
 
         // Create ArrayList objects of type ContentInfo and populate it with data on Hotels in your city
         ArrayList<ContentInfo> contentInfo = new ArrayList<>();
-        contentInfo.add(new ContentInfo(R.drawable.volta_hotel,"Volta Serene Hotel", getString(R.string.volta_serene_description)));
-        contentInfo.add(new ContentInfo(R.drawable.volta,"Volta Hotel Akosombo", getString(R.string.akosombo_hotel_description)));
-        contentInfo.add(new ContentInfo(R.drawable.ho_resort,"Sogakope Beach Resort", getString(R.string.sogakope_description)));
+        contentInfo.add(new ContentInfo(R.drawable.volta_hotel, getString(R.string.volta_serene), getString(R.string.volta_serene_description)));
+        contentInfo.add(new ContentInfo(R.drawable.volta, getString(R.string.volta_akosombo), getString(R.string.akosombo_hotel_description)));
+        contentInfo.add(new ContentInfo(R.drawable.ho_resort, getString(R.string.soga_beach), getString(R.string.sogakope_description)));
 
         // Inflate and assign a variable to the root view
         View rootViewGroup = inflater.inflate(R.layout.fragment_hotels, container, false);
