@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyTabLayout" >
+        <item name="tabIndicatorColor">@color/primaryTextColor</item>
+        <item name="tabIndicatorHeight">2dp</item>
+        <item name="tabBackground">@color/primaryColor</item>
+        <item name="tabTextColor">@color/primaryTabColor</item>
+        <item name="tabGravity">fill</item>
+        <item name="tabSelectedTextColor">@color/primaryTextColor</item>
+        <item name="elevation">4dp</item>
+    </style>
+
+</resources>
