@@ -41,8 +41,10 @@ public class TourGuideFragmentPageAdapter extends FragmentPagerAdapter {
             return mContext.getResources().getText(R.string.attractions_tab);
         } else if (position == 1){
             return mContext.getResources().getText(R.string.hotels_tab);
-        } else {
+        } else if (position == 2){
             return mContext.getResources().getText(R.string.landmarks_tab);
+        } else {
+            return mContext.getResources().getText(R.string.festivals_tab);
         }
     }
 }

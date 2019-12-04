@@ -22,4 +22,11 @@
     <string name="soga_beach">Sogakope Beach Resort</string>
     <string name="lake_volta">Lake Volta</string>
     <string name="akosombo_dam">Akosombo Dam</string>
+    <string name="festivals_tab">Festivals</string>
+    <string name="asogli_festival">Asogli Te Za (Yam Festival)</string>
+    <string name="asogli_description">Asogli Yam Festival is an annual festival celebrated by the people of Asogli in the Ho Municipality located in the Volta Region of Ghana. It is celebrated in September annually to celebrate the cultivation of yam that was started by a hunter who found the tuber in the forest during his hunting expedition. According to history, the cultivation of yam among the people of Asogli started when the yam that the hunter hid during his hunting expedition later germinated and grew bigger. The celebration was brought into Ghana by the Ewe people of Ghana when they migrated from Notse in the Republic of Togo; where it is still celebrated.</string>
+    <string name="hogbotso">Hogbetsotso Festival</string>
+    <string name="hogbetsotso_description">The Hogbetsotso festival is celebrated by the chiefs and people of Anlo in the Volta region of Ghana. The festival is celebrated annually on the first Saturday in the month of November. The name of the festival is derived from the Ewe language and translates as, the festival of exodus, or "coming from Hogbe (Notsie)". The celebration of the festival was instituted about four decades ago.</string>
+    <string name="kente">Kente Festival</string>
+    <string name="kente_description">Every year, since 1995, the Agotime Kente Festival (Agbamevorza) has taken place in the town of Kpetoe, in Ghana’s Volta. The festival has been celebrated to showcase the uniqueness of Kente as a matchless indigenous fabric from Ghana. Also, it is to draw attention to the aesthetic and cultural values of the Kente cloth.</string>
 </resources>
