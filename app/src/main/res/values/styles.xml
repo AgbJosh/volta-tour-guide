@@ -18,4 +18,14 @@
         <item name="elevation">4dp</item>
     </style>
 
+    <style name="PlaceStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primaryDarkColor</item>
+        <item name="android:textSize">@dimen/dim_place_txt</item>
+    </style>
+
+    <style name="ImageStyle">
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
 </resources>
